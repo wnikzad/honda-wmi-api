@@ -8,7 +8,6 @@ C:\xampp\htdocs\HondaWmiApi\obj\Debug\net7.0\HondaWmiApi.MvcApplicationPartsAsse
 C:\xampp\htdocs\HondaWmiApi\bin\Debug\net7.0\appsettings.Development.json
 C:\xampp\htdocs\HondaWmiApi\bin\Debug\net7.0\appsettings.json
 C:\xampp\htdocs\HondaWmiApi\bin\Debug\net7.0\honda_wmi.json
-C:\xampp\htdocs\HondaWmiApi\bin\Debug\net7.0\honda_wmi_data.json
 C:\xampp\htdocs\HondaWmiApi\bin\Debug\net7.0\HondaWmiApi.exe
 C:\xampp\htdocs\HondaWmiApi\bin\Debug\net7.0\HondaWmiApi.deps.json
 C:\xampp\htdocs\HondaWmiApi\bin\Debug\net7.0\HondaWmiApi.runtimeconfig.json
