@@ -11,7 +11,7 @@ This is a simple ASP.NET Core Web API project that serves a World Manufacturer I
 ### Installing
 
 1. Clone the repo
-   `git clone https://github.com/your-username/your-project.git`
+   `git clone https://github.com/wnikzad/honda-wmi-api`
 2. Open the project in VS Code
 3. Build and run the project:
 
