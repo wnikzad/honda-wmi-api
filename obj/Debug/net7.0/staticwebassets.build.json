@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PGXYDU9oqT82xX+CtMGk2k8KOpm7b9QtcDnqldusLk8=",
+  "Source": "HondaWmiApi",
+  "BasePath": "_content/HondaWmiApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
