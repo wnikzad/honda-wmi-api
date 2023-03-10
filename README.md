@@ -22,3 +22,7 @@ This is a simple ASP.NET Core Web API project that serves a World Manufacturer I
 
 GET /api/hondaWmi: Returns a list of Honda WMI data.
 GET /api/hondaWmi/{id}: Returns a single Honda WMI data based on the provided ID.
+
+### Developer note
+
+For CorsPolicy, I have allowed access from http://localhost:3000. If you are using a different port or env variable, please modify this.
